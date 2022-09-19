@@ -39,7 +39,6 @@ public class TextWrapActivity extends AppCompatActivity {
         button2.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                // Do something here
                 Intent i = new Intent(TextWrapActivity.this, TestingActivity.class);
                 startActivity(i);
             }
@@ -47,7 +46,6 @@ public class TextWrapActivity extends AppCompatActivity {
         button3.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                // Do something here
                 Intent i = new Intent(TextWrapActivity.this, TestingActivity.class);
                 startActivity(i);
             }
@@ -55,7 +53,6 @@ public class TextWrapActivity extends AppCompatActivity {
         button4.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                // Do something here
                 Intent i = new Intent(TextWrapActivity.this, TestingActivity.class);
                 startActivity(i);
             }

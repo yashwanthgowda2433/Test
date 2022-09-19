@@ -37,10 +37,4 @@ public class MainActivity extends AppCompatActivity {
 
     }
 
-    private void newIntent() {
-        Intent i = new Intent(MainActivity.this, TextWrapActivity.class);
-        startActivity(i);
-    }
-
-
 }
